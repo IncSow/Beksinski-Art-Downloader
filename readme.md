@@ -12,7 +12,7 @@ Feel free to update this script if you ever find it.
 ## How to run this script ?
 
 Install ruby. I used ruby 3.0 but previous versions should also work.
-Simply run the script using `ruby beksinski.rb`. Everything will be downloaded in your "./Pictures/bek" folder.
+Simply run the script using `ruby beksinski.rb`. Everything will be downloaded in a folder named "bek".
 
 
 --------------------
