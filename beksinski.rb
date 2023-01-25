@@ -6,11 +6,14 @@ require "open-uri"
 
 all_imgs = all_links.map {|v| v.split("beksinski/")[1]}
 
+Dir.mkdir("bek") unless Dir.exists?("bek")
+
+
 all_imgs.each_with_index do | img, index |
     print "Currently on image #{index} of #{all_imgs.length} \r"
     begin 
         URI.open("https://uploads2.wikiart.org/images/zdislav-beksinski/#{img}.jpg") do |image|
-            File.open("./Pictures/bek/#{img}.jpg", "w") do |file|
+            File.open("./bek/#{img}.jpg", "w") do |file|
                 file.write(image.read)
             end
         end
