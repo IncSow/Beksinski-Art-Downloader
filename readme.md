@@ -8,10 +8,14 @@ Currently, some of the imgs are duplicated and around 48 of them cannot be downl
 
 Feel free to update this script if you ever find it.
 
+--------------------
 ## How to run this script ?
 
 Install ruby. I used ruby 3.0 but previous versions should also work.
 Simply run the script using `ruby beksinski.rb`. Everything will be downloaded in your "./Pictures/bek" folder.
 
+
+--------------------
+## Disclaimer 
 
 None of the images you may download using this script are my property. You are not allowed to use this script if you plan on using Beksinski's art for AI generation and model training.
