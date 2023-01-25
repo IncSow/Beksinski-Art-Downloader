@@ -1,4 +1,4 @@
-A simple script I made to download all of beksinski's works
+A simple script I made to download all of beksinski's works, to use them as my background and work on them for fun.
 
 I got the list on this page https://www.wikiart.org/en/zdzislaw-beksinski/all-works#!#filterName:all-paintings-chronologically,resultType:masonry 
 And I got the list of links using javascript.
@@ -13,4 +13,4 @@ Feel free to update this script if you ever find it.
 
 
 
-None of the imgs you may download using this script are my property.
+None of the imgs you may download using this script are my property. You are not allowed to use this script if you plan on using Beksinski
